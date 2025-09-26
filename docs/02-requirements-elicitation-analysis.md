@@ -59,7 +59,8 @@
         - **Nombre:** Luis Abad Palacin Lope
         - **Edad:** 50 años
         - **Distrito:** Santa Anita
-        - **Screenshot:**
+        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento1-Entrevista1.jpg)
+
         - **Video URL:**
         - **Timing:** 00:00 - 10:48
         - **Resumen:**
@@ -92,7 +93,7 @@
         - **Nombre:** Omar
         - **Edad:** 48 años
         - **Distrito:** Arequipa
-        - **Screenshot:**
+        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista1.jpg)
         - **Video URL:** 
         - **Timing:** 00:05 - 07:00
         - **Resumen:**
@@ -107,7 +108,7 @@
         - **Nombre:** Adolfo Palacin 
         - **Edad:** 46 años
         - **Distrito:** Lima
-        - **Screenshot:**
+        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista2.jpg)
         - **Video URL:** 
         - **Timing:** 00:20 - 10:50
         - **Resumen:**
@@ -133,7 +134,7 @@
         - **Nombre:** Carla Martinez 
         - **Edad:** 33 años
         - **Distrito:** San Juan de Miraflores
-        - **Screenshot:**
+        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento3-Entrevista1.jpg)
         - **Video URL:** 
         - **Timing:** 00:15 - 3:35
         - **Resumen:**
@@ -174,6 +175,9 @@ El análisis de entrevista profundiza en la comprensión de las necesidades o co
     - El 100% de las veces se coordina el terreno a viajes por medio de Google Maps, Whatsapps y teléfonos android.
     - El 100% de las veces herramientas como hojas de cálculo para tareas administrativas e inventarios son empleadas
 
+    ![Análisis Segmento 1 - 1](../src/images/chapter2/interviews/Analisis-Segmento1-1.png)
+
+    ![Análisis Segmento 1 - 2](../src/images/chapter2/interviews/Analisis-Segmento1-2.png)
 
     La fragmentación tecnológica explica un problema recurrente: los reportes de incidentes, viajes o estado del cargamento suelen ser por medio de mensajes electrónicos o fotos simples tomadas. Se considera un obstáculo para lograr una trazabilidad más controlada y detallada. Serán consideradas para el desarrollo del proyecto.
 
@@ -188,6 +192,12 @@ El análisis de entrevista profundiza en la comprensión de las necesidades o co
 
     - Sencillez y compatibilidad móvil: 2/2 (100%) requieren soluciones prácticas y compatibles con dispositivos Android usados en campo.
 
+    ![Análisis Segmento 2 - 1](../src/images/chapter2/interviews/Analisis-Segmento2-1.png)
+
+    ![Análisis Segmento 2 - 2](../src/images/chapter2/interviews/Analisis-Segmento2-2.png)
+
+    ![Análisis Segmento 2 - 3](../src/images/chapter2/interviews/Analisis-Segmento2-3.png)
+
     Se percibió que, por un lado, dicha inversión tecnológica debe demostrar un retorno de inversión claro mientras que por el otro lado prioriza precios bajos y facilidad de uso como criterios principales. Esto da a entender que el segmento de proveedores de licores operaban con tecnologías básicas y procesos manuales que resultan inestables a mayor demanda. Apoyarse de herramientas como reportes más quirúrgicos evita problemas de tiempo o incidencias que gastan recursos y tiempo. Serán consideradas para el desarrollo del proyecto.
 
 - **Segmento 3: Dueños de negocios**
@@ -200,12 +210,21 @@ El análisis de entrevista profundiza en la comprensión de las necesidades o co
 
     - Su alcance con las herramientas básica para la logística personal del dueño de negocios siempre lo tiende a llevar a una planeación anticipada de sus productos por no percibir con exactitud el flujo de su negocio y por ende alterando los precios a los que vende su mercancía, resultando una frecuencia del 60% de este comportamiento.
 
+    ![Análisis Segmento 3 - 1](../src/images/chapter2/interviews/Analisis-Segmento3-1.png)
+
+    ![Análisis Segmento 3 - 2](../src/images/chapter2/interviews/Analisis-Segmento3-2.png)
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-    - **Segmento 1: Empresas de transporte de camiones**
 
+- **Segmento 1: Empresas de transporte de camiones**
 
-    - **Segmento 2: Proveedores de licores**
+    ![User Persona Segmento 1](../src/images/chapter2/needfinding/UserPersona-Segmento1.png)
 
+- **Segmento 2: Proveedores de licores**
 
-    - **Segmento 3: Dueños de negocios**
+    ![User Persona Segmento 2](../src/images/chapter2/needfinding/UserPersona-Segmento2.png)  
+
+- **Segmento 3: Dueños de negocios**
+
+    ![User Persona Segmento 2](../src/images/chapter2/needfinding/UserPersona-Segmento3.png)
