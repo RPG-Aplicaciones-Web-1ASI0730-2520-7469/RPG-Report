@@ -76,13 +76,13 @@ Como equipo, hemos optado por incorporar el patrón de diseño en forma de F en 
 
 ### 4.2.2. Labeling System
 
-    Para los sistemas de etiquetado, hemos optado por organizar el contenido mediante encabezados que agrupen las seccione las que el usuario puede acceder. De esta manera, el usuario sabe dónde hacer clic para acceder a las secciones correspondientes.
+Para los sistemas de etiquetado, hemos optado por organizar el contenido mediante encabezados que agrupen las seccione las que el usuario puede acceder. De esta manera, el usuario sabe dónde hacer clic para acceder a las secciones correspondientes.
 
-    | Tópico | Definición |
-    |--------|------------|
-    | Home Page | Sección principal a la cual llegará el usuario al entrar al link de la aplicación web. |
-    | Subscription | En esta sección, se podrán ver los planes y tarifas disponibles con los cuales contamos. |
-    | Technical Support | Esta es la sección en la cual se le brindará al usuario todos los canales por los cuales nos puede contactar. |
+| Tópico           | Definición                                                                 |
+|------------------|----------------------------------------------------------------------------|
+| Home Page        | Sección principal a la cual llegará el usuario al entrar al link de la aplicación web. |
+| Subscription     | En esta sección, se podrán ver los planes y tarifas disponibles con los cuales contamos. |
+| Technical Support| Esta es la sección en la cual se le brindará al usuario todos los canales por los cuales nos puede contactar. |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
