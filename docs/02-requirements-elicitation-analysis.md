@@ -59,9 +59,12 @@
         - **Nombre:** Luis Abad Palacin Lope
         - **Edad:** 50 años
         - **Distrito:** Santa Anita
-        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento1-Entrevista1.jpg)
+        - **Screenshot:** 
+            ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento1-Entrevista1.jpg)
 
-        - **Video URL:**
+        - **Video URL:** [Segmento1-Entrevista-#1](https://upcedupe-my.sharepoint.com/:l:/g/personal/u20211c201_upc_edu_pe/FJ4Olmrx4IJKlA7xouvPIx4B-ZKwQ8TewH0ybs_BUBIopw?e=PfFAif)
+
+            
         - **Timing:** 00:00 - 10:48
         - **Resumen:**
 
@@ -93,8 +96,11 @@
         - **Nombre:** Omar
         - **Edad:** 48 años
         - **Distrito:** Arequipa
-        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista1.jpg)
-        - **Video URL:** 
+        - **Screenshot:** 
+        
+            ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista1.jpg)
+
+        - **Video URL:** [Segmento2-Entrevista-#1](https://upcedupe-my.sharepoint.com/:l:/g/personal/u20211c201_upc_edu_pe/FJ4Olmrx4IJKlA7xouvPIx4B-ZKwQ8TewH0ybs_BUBIopw?e=PfFAif)
         - **Timing:** 00:05 - 07:00
         - **Resumen:**
 
@@ -108,8 +114,14 @@
         - **Nombre:** Adolfo Palacin 
         - **Edad:** 46 años
         - **Distrito:** Lima
-        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista2.jpg)
+        - **Screenshot:** 
+        
+            ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento2-Entrevista2.jpg)
+
         - **Video URL:** 
+
+            [Segmento2-Entrevista-#2](https://upcedupe-my.sharepoint.com/:l:/g/personal/u20211c201_upc_edu_pe/FJ4Olmrx4IJKlA7xouvPIx4B-ZKwQ8TewH0ybs_BUBIopw?e=PfFAif)
+
         - **Timing:** 00:20 - 10:50
         - **Resumen:**
 
@@ -134,8 +146,14 @@
         - **Nombre:** Carla Martinez 
         - **Edad:** 33 años
         - **Distrito:** San Juan de Miraflores
-        - **Screenshot:** ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento3-Entrevista1.jpg)
+        - **Screenshot:** 
+        
+            ![Entrevista Segmento 1](../src/images/chapter2/interviews/Segmento3-Entrevista1.jpg)
+
         - **Video URL:** 
+
+            [Segmento3-Entrevista-#1](https://upcedupe-my.sharepoint.com/:l:/g/personal/u20211c201_upc_edu_pe/FJ4Olmrx4IJKlA7xouvPIx4B-ZKwQ8TewH0ybs_BUBIopw?e=PfFAif)
+
         - **Timing:** 00:15 - 3:35
         - **Resumen:**
 
