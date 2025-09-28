@@ -10,9 +10,14 @@ Un style Guidelines es un conjunto de reglas y normas que definen cómo se debe 
 
     Para la creación del logo de nuestro producto GlassGo, se ha optado por un diseño moderno y minimalista que refleje las intenciones de la aplicación. El logotipo se compone de una tipografía elegante y sencilla, acompañada de un icono que simboliza eficiencia rápida y la perdurabilidad del producto durante el envío al igual que una frase honesta y alentadora. Mostrando colores que demuestran seguridad, rapidez y equilibrio como lo son el blanco, gris, verde, naranja y azul.
 
+    ![Branding GlassGo](../src/images/chapter4/style-guidelines/Branding1.png)
+
 - **Typography**
 
     Para la creación del logo de nuestro producto GlassGo, se ha optado por un diseño moderno y minimalista que refleje las intenciones de la aplicación. El logotipo se compone de una tipografía elegante y sencilla, acompañada de un icono que simboliza eficiencia rápida y la perdurabilidad del producto durante el envío al igual que una frase honesta y alentadora. Mostrando colores que demuestran seguridad, rapidez y equilibrio como lo son el blanco, gris, verde, naranja y azul.
+
+    ![Typography GlassGo 1](../src/images/chapter4/style-guidelines/typography1.png)
+    ![Typography GlassGo 2](../src/images/chapter4/style-guidelines/typography2.png)
 
 - **Colors**
 
@@ -28,9 +33,14 @@ Un style Guidelines es un conjunto de reglas y normas que definen cómo se debe 
     
     - *Negro ->#000000*
 
+    ![Colors GlassGo](../src/images/chapter4/style-guidelines/colors1.png)
+
 - **Spacing**
 
     La paleta de colores de GlassGo se compone de tonos que transmiten confianza, rapidez y profesionalismo, valores esenciales para una marca enfocada en la entrega segura de productos. El azul principal refleja estabilidad y seguridad, mientras que el naranja aporta dinamismo y movimiento, reforzando la idea de inmediatez. El gris neutro equilibra y aporta sobriedad, asegurando una comunicación clara y profesional.
+
+    ![Spacing GlassGo](../src/images/chapter4/style-guidelines/spacing1.png)
+    
 
 ### 4.1.2. Web Style Guidelines
 
