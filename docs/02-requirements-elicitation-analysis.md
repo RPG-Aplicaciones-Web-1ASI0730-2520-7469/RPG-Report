@@ -326,3 +326,90 @@ Este segmento corresponde a pequeños comerciantes minoristas con entre 2 y 3 a�
     Por su parte, el **User Persona José Álvarez** representa a los dueños de bares y licorerías, quienes dependen de la puntualidad de sus proveedores para mantener el flujo de ventas. José administra un bar en Miraflores y ha tenido que lidiar con entregas tardías o incompletas que afectan directamente su inventario y promociones. Ha intentado llevar un control de pedidos mediante hojas de cálculo y mensajería, pero estos métodos le resultan ineficientes y poco precisos. Su motivación principal es **contar con un sistema que le brinde transparencia y puntualidad en los pedidos**, permitiéndole planificar mejor sus compras y evitar pérdidas por falta de stock. Busca una herramienta intuitiva, visual y de fácil acceso que le permita recibir notificaciones de entrega en tiempo real y mantener comunicación directa con sus proveedores.
 
     En conjunto, estos tres perfiles reflejan los principales desafíos y oportunidades dentro de la cadena logística del transporte de licores en el Perú. Comprender sus necesidades y comportamientos permite al equipo de diseño **alinear las funcionalidades de GlassGo con las expectativas reales de los usuarios finales**, asegurando una solución eficiente, escalable y centrada en la experiencia de todos los actores involucrados.
+
+
+### 2.3.2. User Task Matrix
+
+* **Segmento 1: Empresas de transporte de camiones**
+
+| Tareas | Sandra Haro (Gerente de Operaciones) |  |
+| ----- | :---: | :---: |
+|  | **Frecuencia** | **Importancia** |
+| Optimizar rutas para reducir costos de combustible y tiempo | Always | High |
+| Monitorear conductores y vehículos en tiempo real | Always | High |
+| Gestionar la trazabilidad de productos terminados | Often | High |
+| Coordinar con clientes sobre horarios de entrega | Often | High |
+| Implementar nuevas tecnologías de monitoreo y sensores | Sometimes | High |
+| Generar reportes de eficiencia operativa | Often | Medium |
+| Mantener comunicación con conductores por incidencias | Always | High |
+| Analizar dependencia de terceros para planificación | Sometimes | Medium |
+| Buscar soluciones que reduzcan ineficiencias | Often | High |
+| Supervisar procesos logísticos para evitar fallas | Always | Medium |
+
+
+* **Segmento 2: Proveedores de licores**
+
+| Tareas | Ricardo Salazar (Gerente General) |  |
+| ----- | :---: | :---: |
+|  | **Frecuencia** | **Importancia** |
+| Optimizar la logística para reducir costos operativos | Always | High |
+| Mantener confianza con hoteles, restaurantes y tiendas grandes | Always | High |
+| Garantizar entregas puntuales y seguimiento en tiempo real | Always | High |
+| Administrar equipo de más de 30 personas | Often | High |
+| Gestionar inventario para evitar pérdidas y roturas | Always | High |
+| Coordinar con transportistas para entregas eficientes | Often | High |
+| Analizar reportes tardíos de sistemas y realizar ajustes | Sometimes | Medium |
+| Supervisar costos adicionales por reposiciones pendientes | Often | High |
+| Mantener relaciones comerciales sólidas y duraderas | Often | High |
+| Implementar herramientas tecnológicas para mejorar eficiencia | Sometimes | High |
+
+
+* **Segmento 3: Dueños de negocios**
+
+| Tareas | María Fernanda Ruiz (Administradora de Negocio) |  |
+| ----- | :---: | :---: |
+|  | **Frecuencia** | **Importancia** |
+| Mantener un inventario ordenado y confiable | Always | High |
+| Evitar quiebres de stock en productos de mayor rotación | Always | High |
+| Garantizar calidad de productos antes de la venta | Always | High |
+| Gestionar pedidos utilizando PC y decisiones | Often | High |
+| Comunicarse con proveedores vía WhatsApp principalmente | Often | High |
+| Planificar compras anticipadas para eventos especiales | Sometimes | High |
+| Implementar sistemas de seguimiento en tiempo real | Sometimes | High |
+| Reducir pérdidas y sobrecostos por retrasos o fallas | Often | High |
+| Adoptar soluciones digitales simples y accesibles | Sometimes | Medium |
+| Mejorar transparencia y eficiencia en la cadena logística | Often | High |
+
+### 2.3.3. User Journey Mapping
+
+* **Segmento 1: Empresas de transporte de camiones**
+
+    ![User Journey Mapping Segmento 1](../src/images/chapter2/needfinding/journey-1.png)
+
+* **Segmento 2: Proveedores de licores**
+
+    ![User Journey Mapping Segmento 2](../src/images/chapter2/needfinding/journey-2.png)
+
+* **Segmento 3: Dueños de negocios**
+
+    ![User Journey Mapping Segmento 3](../src/images/chapter2/needfinding/journey-3.png)
+
+### 2.3.4. Empathy Mapping
+
+* **Segmento 1: Empresas de transporte de camiones**
+
+  *Sandra Haro \- Gerente de Operaciones (Empresa de Transporte)*
+
+    ![Empathy Mapping Segmento 1](../src/images/chapter2/needfinding/empathy-1.png)
+
+* **Segmento 2: Proveedores de licores**
+
+  *Ricardo Salazar \- Gerente General (Distribuidor)*
+
+    ![Empathy Mapping Segmento 2](../src/images/chapter2/needfinding/empathy-2.png)
+
+* **Segmento 3: Dueños de negocios**
+
+  *María Fernanda Ruiz \- Administradora de Negocio Minorista*
+
+    ![Empathy Mapping Segmento 3](../src/images/chapter2/needfinding/empathy-3.png)
