@@ -1,415 +1,470 @@
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
-- **Segmento 1: Empresas de transporte de camiones**
-    - **Preguntas de descubrimiento:**
-        * ¿Cuál es su nombre completo y edad?  
-        * ¿Podría contarme brevemente sobre su negocio de transporte? (ubicación, mercancía principal, tamaño de flota, número de empleados).  
-        * ¿Quiénes son sus clientes principales (distribuidores, bares, licorerías, supermercados)?  
-        * ¿Qué dispositivos electrónicos utilizan más para coordinar rutas y entregas? (smartphone, tablet, computadora).  
-        * ¿Qué marcas, softwares o plataformas utilizan actualmente para el seguimiento de la flota?
-    - **Preguntas principales**
-        * ¿Cómo planifican las rutas de entrega? ¿Usan sistemas digitales o lo hacen manualmente?  
-        * ¿Qué tan frecuentes son los problemas de pérdidas o daños en la carga?  
-        * ¿Qué costos adicionales generan estos problemas (roturas, retrasos, reclamos de clientes)?  
-        * ¿Qué información en tiempo real sería más valiosa para ustedes? (estado de la carga, ubicación exacta, temperatura, impactos, alertas).  
-        * ¿Qué obstáculos han tenido al implementar herramientas digitales en el pasado?  
-        * Si existiera una solución que mejore la eficiencia logística, ¿Qué características serían imprescindibles para adoptarla?
-- **Segmento 2: Distribuidores de licores**
-    - **Preguntas de descubrimiento:**
-        * ¿Cuál es su nombre completo y edad?  
-        * ¿Podría contarme brevemente sobre el negocio de distribución? (ubicación, años de operación, volumen de entregas, temporadas de mayor demanda).  
-        * ¿Qué tipo de clientes atienden con más frecuencia (bares, restaurantes, supermercados, licorerías)?  
-        * ¿Qué dispositivos y marcas llegan a utilizar más para coordinar pedidos y entregas?  
-        * ¿Qué plataformas o aplicaciones emplean actualmente para gestionar la logística?
-    - **Pregutnas principales:**
-        * ¿Cómo reciben información sobre retrasos, golpes o problemas durante el transporte?  
-        * ¿Qué consecuencias tienen las demoras o roturas en su relación con clientes finales?  
-        * ¿Qué indicadores o reportes logísticos consideran más importantes? (tiempos, costos, estado de la carga, incidencias).  
-        * ¿Qué canales prefieren para comunicarse con transportistas (llamadas, WhatsApp, apps)?  
-        * ¿Cuál ha sido la peor experiencia que han tenido en entregas?  
-        * Si existiera una solución que mejore la eficiencia logística, ¿Qué características serían imprescindibles para adoptarla?
-- **Segmento 3: Dueños de negocios (bares, licorerias, supermercados)**
-    - **Preguntas de descubrimiento:**
-        * ¿Cuál es su nombre completo y edad?  
-        * ¿Podría contarme brevemente sobre su establecimiento? (ubicación, tamaño, años en el mercado, tipo de clientes).  
-        * ¿Qué dispositivos usan más para gestionar inventario y pedidos (PC, smartphone, tablet)?  
-        * ¿Qué canales digitales utilizan para comunicarse con proveedores (llamadas, WhatsApp, correo, apps)?
+## 2.2. Interviews
+### 2.2.1. Interview Design
+- **Segment 1: Truck Transport Companies**
+    - **Discovery Questions:**
+        * What is your full name and age?  
+        * Could you briefly tell me about your transport business? (location, main merchandise, fleet size, number of employees).  
+        * Who are your main clients (distributors, bars, liquor stores, supermarkets)?  
+        * Which electronic devices do you use most to coordinate routes and deliveries? (smartphone, tablet, computer).  
+        * What brands, software, or platforms do you currently use for fleet tracking?
+    - **Main Questions**
+        * How do you plan delivery routes? Do you use digital systems or do it manually?  
+        * How frequent are problems of loss or damage to cargo?  
+        * What additional costs do these problems generate (breakages, delays, customer claims)?  
+        * What real-time information would be most valuable to you? (cargo status, exact location, temperature, impacts, alerts).  
+        * What obstacles have you faced when implementing digital tools in the past?  
+        * If there were a solution that improves logistics efficiency, what features would be essential for you to adopt it?
+- **Segment 2: Liquor Distributors**
+    - **Discovery Questions:**
+        * What is your full name and age?  
+        * Could you briefly tell me about the distribution business? (location, years of operation, delivery volume, peak seasons).  
+        * What type of clients do you serve most frequently (bars, restaurants, supermarkets, liquor stores)?  
+        * What devices and brands do you use most to coordinate orders and deliveries?  
+        * What platforms or applications do you currently use to manage logistics?
+    - **Main Questions:**
+        * How do you receive information about delays, impacts, or problems during transport?  
+        * What consequences do delays or breakages have on your relationship with end customers?  
+        * What logistics indicators or reports do you consider most important? (times, costs, cargo status, incidents).  
+        * What channels do you prefer to communicate with carriers (calls, WhatsApp, apps)?  
+        * What has been your worst experience with deliveries?  
+        * If there were a solution that improves logistics efficiency, what features would be essential for you to adopt it?
+- **Segment 3: Business Owners (bars, liquor stores, supermarkets)**
+    - **Discovery Questions:**
+        * What is your full name and age?  
+        * Could you briefly tell me about your establishment? (location, size, years in the market, type of clients).  
+        * What devices do you use most to manage inventory and orders (PC, smartphone, tablet)?  
+        * What digital channels do you use to communicate with suppliers (calls, WhatsApp, email, apps)?
 
-    - **Preguntas principales:**
-        * ¿Cómo es la experiencia actual de coordinar pedidos con sus proveedores de licores?  
-        * ¿Qué problemas enfrentan más seguido con los pedidos (retrasos, falta de stock, cambios de precio, golpes en la mercadería)?  
-        * ¿Qué información consideran esencial recibir al hacer un pedido? (confirmación, tiempo estimado, trazabilidad).  
-        * ¿Cómo les gustaría recibir actualizaciones sobre sus pedidos? (notificaciones, seguimiento en tiempo real, contacto directo).  
-        * ¿Qué tan importante es la transparencia y seguridad en la entrega de licores para su negocio?  
-        * Si existiera una solución que mejore la eficiencia logística, ¿Qué características serían imprescindibles para adoptarla?
+    - **Main Questions:**
+        * What is your current experience coordinating orders with your liquor suppliers?  
+        * What problems do you face most often with orders (delays, out of stock, price changes, damaged goods)?  
+        * What information do you consider essential to receive when placing an order? (confirmation, estimated time, traceability).  
+        * How would you like to receive updates about your orders? (notifications, real-time tracking, direct contact).  
+        * How important is transparency and security in liquor delivery for your business?  
+        * If there were a solution that improves logistics efficiency, what features would be essential for you to adopt it?
 
-### 2.2.2. Registro de entrevistas
+### 2.2.2. Interview Records
 
-**Segmento 1: Empresas de transporte de camiones**
+**Segment 1: Truck Transport Companies**
 
-- **Información de entrevista \#1:**
+- **Interview Information #1:**
 
-    - **Nombres:** Luis Abad  
-    - **Apellidos:** Palacin Lope  
-    -  **Edad:** 50 años  
-    -  **Distrito:** Santa Anita  
-    -  **Screenshot:** 
-        ![Entrevista1](../src/images/chapter2/interviews/Segmento1-Entrevista1.jpg)
+    - **Names:** Luis Abad  
+    - **Surnames:** Palacin Lope  
+    - **Age:** 50 years  
+    - **District:** Santa Anita  
+    - **Screenshot:** 
+        ![Interview1](../src/images/chapter2/interviews/Segmento1-Entrevista1.jpg)
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:** 
+
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):**
         
-        Luis Abad Palacin López, gerente de operaciones de HPL Transport SAC, es un profesional con más de 20 años de experiencia en el rubro del transporte de carga por carretera. A sus 50 años, se caracteriza por una personalidad meticulosa, analítica y orientada a la eficiencia operativa, lo que se refleja en su forma de gestionar procesos y supervisar la flota. Su liderazgo combina disciplina y control logístico con un enfoque preventivo hacia la seguridad vial y el mantenimiento técnico. La empresa cuenta con una flota de camiones en donde transportan principalmente envases y productos terminados de la Cervecería Backus, operando tanto en Lima, provincia y la selva peruana. La ayuda de aliados logísticos son cruciales para seguir ampliando su alcance a nivel nacional, lo que categoriza la comunicación y la planificación, entre la central logística y los conductores del transporte, en un nivel alto e incluso crucial durante temporadas de mayor demanda como fiestas nacionales, Navidad y Año Nuevo.   
-    
-        Las tecnologías utilizadas por el usuario Luis son la plataforma Frotcom, como herramienta de seguimiento y control de flota, smartphones y computadoras personales con propósitos empresariales con el sistema operativo popular Windows. Herramientas imprescindibles al momento de querer visualizar en tiempo real las unidades, establecer geocercas, definir paradas autorizadas y notificar sobre desvíos no autorizados.  
-    
-        Adicionalmente, el sistema mencionado es capaz de obtener métricas como consumo de combustible y desgaste de neumáticos. Característica atractiva para el usuario para considerar el contexto completo de la unidad respectiva. A pesar de que la plataforma Frotcom cumple con la mayoría de sus expectativas, menciona como necesidad pendiente sensores de fatiga del conductor y alerta de somnolencia. De este modo, el usuario sentiría una mayor seguridad durante trayectos extensos. En resumen, el usuario presenta una alta confianza en herramientas digitales, pero también con una mirada crítica hacia la innovación mediante mejoras tangibles.
+        00:00 - 10:48
+    - **Descriptive Summary:** 
+        
+        Luis Abad Palacin López, operations manager at HPL Transport SAC, is a professional with more than 20 years of experience in road freight transport. At 50 years old, he is characterized by a meticulous, analytical personality oriented towards operational efficiency, reflected in his process management and fleet supervision. His leadership combines discipline and logistical control with a preventive approach to road safety and technical maintenance. The company has a fleet of trucks mainly transporting containers and finished products from Cervecería Backus, operating in Lima, provinces, and the Peruvian jungle. The help of logistics partners is crucial to continue expanding their national reach, making communication and planning between the logistics center and transport drivers highly important, especially during peak demand seasons such as national holidays, Christmas, and New Year.   
 
-- **Información de la entrevista \#2:**
+        The technologies used by Luis include the Frotcom platform for fleet tracking and control, smartphones, and personal computers with the popular Windows operating system. Essential tools for real-time visualization of units, establishing geofences, defining authorized stops, and notifying about unauthorized deviations.  
 
-    - **Nombres:** Jordan Paolo  
-    - **Apellidos:** Palacin Raraz  
-    - **Edad:** 31 años  
-    - **Distrito:** Santa Anita  
+        Additionally, the mentioned system can obtain metrics such as fuel consumption and tire wear. An attractive feature for the user to consider the complete context of each unit. Although the Frotcom platform meets most of his expectations, he mentions as a pending need driver fatigue sensors and drowsiness alerts. This way, he would feel greater security during long journeys. In summary, the user has high confidence in digital tools but also a critical view towards innovation through tangible improvements.
+
+- **Interview Information #2:**
+
+    - **Names:** Jordan Paolo  
+    - **Surnames:** Palacin Raraz  
+    - **Age:** 31 years  
+    - **District:** Santa Anita  
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento1-Entrevista2.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento1-Entrevista2.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Jordan Paolo Palacín Raraz, de 31 años, trabaja como analista de distribución primaria en Arca Continental Logística donde labora desde hace más de dos años y acumula cinco años y medio de experiencia en el rubro de distribución. Su perfil refleja una personalidad analítica, responsable y metódica, con un fuerte enfoque en la eficiencia operativa y la planificación logística. Muestra una comunicación clara, técnica y centrada en la resolución de problemas, lo que evidencia su conocimiento profundo de los procesos de transporte y abastecimiento nacional. En su puesto, coordina la distribución de productos a nivel nacional, asegurando que las entregas lleguen en el tiempo óptimo y con las cantidades solicitadas. Los principales clientes que atiende son almacenes propios de la compañía y mayoristas siendo sus  picos más altos entre los meses de verano y finales de año.  
-    
-        Respecto a su entorno tecnológico, utiliza un teléfono móvil Android (Samsung) y una laptop Toshiba T40, herramientas que le permiten mantener una conexión continua con transportistas y proveedores. Dentro de la empresa, emplean la plataforma Geotab, un sistema de GPS que centraliza el monitoreo de flotas a nivel nacional, permitiendo visualizar el tránsito de unidades, generar reportes y dar seguimiento a productos críticos. Sin embargo, reconoce que el sistema presenta limitaciones en zonas accidentadas del país, donde la señal se interrumpe.  
-    
-        La compañía trabaja con transportistas licitados y terceros, quienes gestionan sus propios costos de mantenimiento y desgaste. Su rol implica asegurar la planificación eficiente de las rutas, priorizando productos críticos y buscando siempre equilibrar los costos de transporte con la utilización máxima de la capacidad de carga (llenar el mayor número posible de pallets por unidad). Explica que el flete pactado con transportistas licitados es más competitivo, mientras que el de terceros suele ser más elevado, por lo que deben optimizar la asignación de rutas según conveniencia y eficiencia.  
-    
-        En cuanto a los problemas operativos, menciona que las mermas y pérdidas de producto son frecuentes, principalmente debido al tipo de apilamiento y a las condiciones accidentadas de las carreteras. Estas fallas impactan en la retornabilidad de unidades y, por ello, requieren de reportes rutinarios semanales. El usuario valora las tecnologías emergentes como cámaras a bordo para detectar la fatiga del conductor y monitorear incidentes, además de sensores de combustible que permiten identificar robos mediante el análisis de consumo en tiempo real. Considera que estas herramientas representan una evolución necesaria, aunque reconoce que su alto costo limita su adopción por parte de transportistas terceros.  
-    
-        Finalmente, menciona que la empresa está en proceso de migración al sistema SAP S/4HANA y próximamente al TMS (Transport Management System), con el objetivo de automatizar la planificación de rutas, cubicaje y costos. Reduciendo el tiempo de los procesos analíticos.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):**
 
-- **Información de la entrevista \#3:**
+        10:51 - 40:18  
+    - **Descriptive Summary:**
 
-    - **Nombres:** Percy Adrián  
-    - **Apellidos:** Rojas León  
-    - **Edad:** 37 años  
-    - **Distrito:** Lima 
+        Jordan Paolo Palacín Raraz, 31, works as a primary distribution analyst at Arca Continental Logística, where he has worked for more than two years and has five and a half years of experience in distribution. His profile reflects an analytical, responsible, and methodical personality, with a strong focus on operational efficiency and logistics planning. He demonstrates clear, technical communication centered on problem-solving, evidencing his deep knowledge of national transport and supply processes. In his role, he coordinates product distribution nationwide, ensuring deliveries arrive on time and in the requested quantities. The main clients he serves are the company's own warehouses and wholesalers, with peak periods in summer and year-end months.  
+
+        Regarding his technological environment, he uses an Android mobile phone (Samsung) and a Toshiba T40 laptop, tools that allow him to maintain continuous connection with carriers and suppliers. Within the company, they use the Geotab platform, a GPS system that centralizes fleet monitoring nationwide, allowing visualization of unit transit, report generation, and tracking of critical products. However, he recognizes that the system has limitations in rugged areas of the country, where the signal is interrupted.  
+
+        The company works with contracted carriers and third parties, who manage their own maintenance and wear costs. His role involves ensuring efficient route planning, prioritizing critical products, and always seeking to balance transport costs with maximum load capacity utilization (filling as many pallets as possible per unit). He explains that the freight agreed with contracted carriers is more competitive, while third-party freight is usually higher, so they must optimize route assignment according to convenience and efficiency.  
+
+        Regarding operational problems, he mentions that product losses and shrinkage are frequent, mainly due to stacking type and poor road conditions. These failures impact unit returnability and therefore require routine weekly reports. The user values emerging technologies such as onboard cameras to detect driver fatigue and monitor incidents, as well as fuel sensors to identify theft by analyzing real-time consumption. He considers these tools a necessary evolution, although he recognizes that their high cost limits adoption by third-party carriers.  
+
+        Finally, he mentions that the company is in the process of migrating to the SAP S/4HANA system and soon to TMS (Transport Management System), aiming to automate route planning, cubing, and costs, reducing the time of analytical processes.
+
+- **Interview Information #3:**
+
+    - **Names:** Percy Adrián  
+    - **Surnames:** Rojas León  
+    - **Age:** 37 years  
+    - **District:** Lima 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento1-Entrevista3.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento1-Entrevista3.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Percy Adrián Rojas León, de 37 años, es el director de una empresa de transporte de carga con varios años de experiencia en el rubro. Su personalidad refleja organización, responsabilidad y orientación a resultados, especialmente en el cumplimiento de tiempos de entrega y el cuidado de la mercancía transportada. Dirige una flota mediana de camiones, dedicada principalmente al transporte y distribución de productos de consumo y bebidas hacía bares, licorerías y supermercados, lo que evidencia su inserción en un segmento comercial con alta demanda de puntualidad y conservación del producto.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):**
 
-        El equipo de trabajo que lidera es reducido pero eficiente, con una estructura enfocada en la coordinación logística y la integridad de las entregas. En cuanto al uso de la tecnología, la herramienta principal es el smartphone, empleado tanto por los conductores como por el personal de logística para la comunicación y coordinación diaria. También utilizan computadoras para la gestión general y hojas de cálculo en la planificación semi-manual de rutas, combinando procedimientos tradicionales con recursos digitales básicos.
+        40:19 - 46:25  
+    - **Descriptive Summary:**
 
-        El usuario emplea sistemas GPS estándar, los cuales permiten el rastreo de ubicación y monitoreo del avance de las entregas. No obstante, reconoce limitaciones en la automatización y precisión de los datos obtenidos. Identifica como información valiosa la posibilidad de acceder a alertas en tiempo real sobre ubicación, temperatura de la carga, impactos o movimientos bruscos, lo que revela un interés por mejorar la trazabilidad y control de las condiciones del transporte, especialmente en el manejo de botellas y líquidos frágiles. Dichas carencias pueden representar costos adicionales
+        Percy Adrián Rojas León, 37, is the director of a freight transport company with several years of experience in the field. His personality reflects organization, responsibility, and results orientation, especially in meeting delivery times and caring for transported goods. He manages a medium-sized truck fleet, mainly dedicated to transporting and distributing consumer products and beverages to bars, liquor stores, and supermarkets, evidencing his involvement in a commercial segment with high demand for punctuality and product preservation.
 
-        Finalmente, el usuario expresa que una solución ideal para su empresa debería caracterizarse por su facilidad de uso, especialmente desde aplicaciones móviles, de modo que tanto él como su equipo puedan integrarla sin necesidad de conocimientos técnicos complejos. Esto refleja una preferencia por tecnologías intuitivas, accesibles y compatibles con dispositivos móviles, consolidando un perfil de usuario pragmático y funcional, que busca eficiencia logística sin sacrificar simplicidad operativa.
+        His team is small but efficient, focused on logistics coordination and delivery integrity. Regarding technology use, the main tool is the smartphone, used by both drivers and logistics staff for daily communication and coordination. They also use computers for general management and spreadsheets for semi-manual route planning, combining traditional procedures with basic digital resources.
 
-**Segmento 2: Distribuidores de licores**
+        The user employs standard GPS systems for location tracking and delivery progress monitoring. However, he recognizes limitations in automation and data accuracy. He identifies as valuable the possibility of accessing real-time alerts about location, cargo temperature, impacts, or sudden movements, showing interest in improving traceability and control of transport conditions, especially when handling fragile bottles and liquids. These shortcomings can represent additional costs.
 
-- **Información de la entrevista \#1:**
+        Finally, the user expresses that an ideal solution for his company should be characterized by ease of use, especially from mobile applications, so that both he and his team can integrate it without needing complex technical knowledge. This reflects a preference for intuitive, accessible technologies compatible with mobile devices, consolidating a pragmatic and functional user profile seeking logistics efficiency without sacrificing operational simplicity.
 
-    - **Nombres:** Omar
-    - **Apellidos:**   
-    - **Edad:** 48 años  
-    - **Distrito:** Arequipa 
+**Segment 2: Liquor Distributors**
+
+- **Interview Information #1:**
+
+    - **Names:** Omar
+    - **Surnames:**   
+    - **Age:** 48 years  
+    - **District:** Arequipa 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento2-Entrevista1.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento2-Entrevista1.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Omar es el gerente general de una distribuidora de licores ubicada en la ciudad de Arequipa, con 18 años de experiencia en el sector. A sus 48 años, se presenta como un profesional organizado, estratégico y con fuerte capacidad de negociación, cualidades que le permiten liderar de manera efectiva su equipo de colaboradores y su flota de camiones. Su función combina la dirección ejecutiva con la participación directa en acuerdos comerciales, decisiones de inversión y gestión de proveedores, mientras delega la coordinación logística diaria a un supervisor especializado.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):** 
 
-        Las operaciones de la empresa se concentran principalmente en la atención a hoteles, cadenas de restaurantes, licorerías medianas y grandes, así como supermercados. Los periodos de mayor demanda ocurren durante las campañas de julio (Fiestas Patrias) y diciembre (Navidad y Año Nuevo), además de ferias gastronómicas y eventos corporativos, alcanzando en esos picos cerca de 600 entregas mensuales, lo que representa aproximadamente el 40% del volumen total de operaciones.
+        57:30 - 01:04:35 
+    - **Descriptive Summary:**
 
-        En cuanto al uso de tecnología, la organización emplea computadoras y laptops para tareas administrativas y contables, mientras que los conductores utilizan teléfonos Android con GPS para la coordinación de rutas y el envío de reportes. Asimismo, herramientas como WhatsApp y hojas de cálculo son empleadas para el control de inventarios, facturación y comunicación operativa, evidenciando un entorno digital no tan desarrollado  parcialmente funcional.
+        Omar is the general manager of a liquor distributor located in Arequipa, with 18 years of experience in the sector. At 48, he presents himself as an organized, strategic professional with strong negotiation skills, allowing him to effectively lead his team and truck fleet. His role combines executive management with direct involvement in commercial agreements, investment decisions, and supplier management, while delegating daily logistics coordination to a specialized supervisor.
 
-        No obstante, Omar reconoce limitaciones significativas en la gestión actual, particularmente en la identificación oportuna de incidencias, la cual depende de reportes tardíos de los choferes o reclamos de clientes. Esta situación afecta la satisfacción y confianza de clientes clave, generando costos adicionales asociados a reposición de productos, horas extras, penalidades y envíos urgentes.
+        The company's operations focus mainly on serving hotels, restaurant chains, medium and large liquor stores, and supermarkets. Peak demand periods occur during July campaigns (National Holidays) and December (Christmas and New Year), as well as gastronomic fairs and corporate events, reaching up to 600 monthly deliveries, representing about 40% of total operations.
 
-        Ante ello, el entrevistado considera prioritaria la implementación de soluciones tecnológicas avanzadas que permitan seguimiento en tiempo real, generación automática de reportes y alertas tempranas ante posibles retrasos o incidencias. Destaca que toda innovación debe garantizar un retorno de inversión claro y medible, demostrando una visión pragmática y orientada a resultados respecto a la adopción de nuevas plataformas digitales.
+        Regarding technology use, the organization uses computers and laptops for administrative and accounting tasks, while drivers use Android phones with GPS for route coordination and report sending. Additionally, tools like WhatsApp and spreadsheets are used for inventory control, invoicing, and operational communication, evidencing a partially functional but not highly developed digital environment.
 
-- **Información de la entrevista \#2:**
+        However, Omar recognizes significant limitations in current management, particularly in timely identification of incidents, which depends on late reports from drivers or customer complaints. This affects satisfaction and trust of key clients, generating additional costs associated with product replacement, overtime, penalties, and urgent shipments.
 
-    - **Nombres:** Lulio Adolfo
-    - **Apellidos:** Palacin Lope
-    - **Edad:** 46 años  
-    - **Distrito:** Lima 
+        Therefore, the interviewee considers implementing advanced technological solutions that allow real-time tracking, automatic report generation, and early alerts for possible delays or incidents a priority. He emphasizes that any innovation must guarantee a clear and measurable return on investment, demonstrating a pragmatic and results-oriented view regarding the adoption of new digital platforms.
+
+- **Interview Information #2:**
+
+    - **Names:** Lulio Adolfo
+    - **Surnames:** Palacin Lope
+    - **Age:** 46 years  
+    - **District:** Lima 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento2-Entrevista2.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento2-Entrevista2.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Lulio Adolfo Palacín López, supervisor de transporte en Distribuidora San Martín, cuenta con más de 10 años de experiencia en la gestión logística dentro del sector de distribución de licores. A sus 46 años, proyecta una personalidad organizada, resolutiva y comprometida con la eficiencia operativa, orientada principalmente a la programación de viajes, la coordinación con conductores y la supervisión del traslado de mercancías hacia clientes diversos, entre ellos bares, licorerías, restaurantes, pequeños supermercados y minimarkets de la ciudad de Lima.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):**  
 
-        La empresa, ubicada en el distrito de Ate, cuenta con una flota de cinco camiones medianos y concentra su mayor volumen de operaciones durante los meses de julio (Fiestas Patrias), diciembre (Navidad y Año Nuevo) y en fines de semana o fechas festivas, alcanzando en promedio entre 150 y 160 entregas mensuales. Su gestión logística se apoya principalmente en herramientas básicas, como teléfonos móviles Android, WhatsApp y Google Maps, las cuales facilitan la comunicación y la planificación de rutas, aunque con limitaciones en automatización y trazabilidad.
+        46:26 - 57:28
+    - **Descriptive Summary:**
 
-        La comunicación con los conductores se mantiene de forma directa, y los incidentes se reportan mediante fotos o mensajes, aunque en ocasiones con retrasos, lo que complica el seguimiento en tiempo real de las operaciones. Lulio identifica como principales preocupaciones la merma de carga, los accidentes durante el transporte y los retrasos frente a los tiempos de entrega acordados, factores que repercuten en la satisfacción del cliente y pueden afectar la credibilidad y reputación del servicio, generando incluso cancelaciones o pérdidas de futuras oportunidades comerciales.
+        Lulio Adolfo Palacín López, transport supervisor at Distribuidora San Martín, has more than 10 years of experience in logistics management within the liquor distribution sector. At 46, he projects an organized, solution-oriented personality committed to operational efficiency, mainly focused on trip scheduling, coordination with drivers, and supervising the transport of goods to various clients, including bars, liquor stores, restaurants, small supermarkets, and minimarkets in Lima.
 
-        Respecto a la adopción de nuevas tecnologías, el entrevistado manifiesta interés en implementar una plataforma digital que emita alertas y notificaciones ante posibles cuellos de botella, ayudando a prevenir demoras y mantener un control continuo del proceso logístico. Valora especialmente que la herramienta sea económica, sencilla de usar y compatible con dispositivos móviles, reflejando una visión práctica y orientada a resultados. Su principal motivación es fortalecer el control operativo, reducir pérdidas y garantizar un servicio confiable que refuerce la fidelidad y confianza del cliente.
+        The company, located in Ate district, has a fleet of five medium trucks and concentrates its highest volume of operations during July (National Holidays), December (Christmas and New Year), and weekends or festive dates, averaging between 150 and 160 monthly deliveries. Its logistics management relies mainly on basic tools such as Android mobile phones, WhatsApp, and Google Maps, which facilitate communication and route planning, though with limitations in automation and traceability.
 
-- **Información de la entrevista \#3:**
+        Communication with drivers is direct, and incidents are reported via photos or messages, sometimes with delays, complicating real-time operation monitoring. Lulio identifies main concerns as cargo shrinkage, transport accidents, and delays against agreed delivery times, factors that affect customer satisfaction and can impact service credibility and reputation, even causing cancellations or loss of future business opportunities.
 
-    - **Nombres:** Luis Javier
-    - **Apellidos:** Jimenéz Sandoval
-    - **Edad:** 52 años  
-    - **Distrito:** Lima metropolitana 
+        Regarding new technology adoption, the interviewee expresses interest in implementing a digital platform that issues alerts and notifications for possible bottlenecks, helping prevent delays and maintain continuous control of the logistics process. He especially values that the tool is economical, easy to use, and compatible with mobile devices, reflecting a practical and results-oriented vision. His main motivation is to strengthen operational control, reduce losses, and ensure reliable service that reinforces customer loyalty and trust.
+
+- **Interview Information #3:**
+
+    - **Names:** Luis Javier
+    - **Surnames:** Jimenéz Sandoval
+    - **Age:** 52 years  
+    - **District:** Lima metropolitan 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento2-Entrevista3.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento2-Entrevista3.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Luis Javier Jiménez Sandoval, empresario limeño de 52 años, cuenta con 28 años de experiencia en la venta y distribución de licores, tanto al por mayor como al por menor, dentro del sector de Lima Metropolitana. Su negocio se caracteriza por una trayectoria consolidada basada en relaciones de confianza, principalmente con bares, restaurantes y licorerías, evitando atender a supermercados debido a los altos volúmenes y exigencias de bonificaciones que estos requieren. En cuanto a la estacionalidad del mercado, Javier explica que los productos de mayor demanda varían según la época del año: los licores espirituosos (whisky, vodka, ron de 40°) registran su mayor venta en otoño e invierno, mientras que las cervezas y bebidas listas para consumir (RTD) dominan las temporadas de primavera y verano. El volumen de distribución fluctúa entre 500 y 1000 cajas mensuales, dependiendo de la estacionalidad. 
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):** 
 
-        Su canal principal de comunicación con los clientes es WhatsApp, descartando el uso del correo electrónico por considerarlo más lento. Afirma que su red de clientes se ha formado a través del boca a boca y las recomendaciones personales, aunque reconoce la necesidad de adaptarse al entorno digital actual, por lo que planea implementar redes sociales como canal de comercialización en el corto plazo. Javier muestra una actitud receptiva hacia la digitalización, manifestando interés en una aplicación móvil que le permita agilizar pedidos, filtrar clientes y garantizar la seguridad en las transacciones. Destaca la importancia de que el sistema implementa filtros de validación como verificación de identidad o registro RUC para evitar fraudes, comparándolo con los sistemas de clasificación usados en servicios como eDriver o aplicaciones telefónicas que identifican llamadas sospechosas.
+         01:04:36 - 01:14:50 
+    - **Descriptive Summary:**
 
-        En cuanto a su gestión operativa, identifica como una necesidad fundamental conocer el estado de sus pedidos en tiempo real, debido a los retrasos frecuentes en las entregas, especialmente en Lima, donde el tráfico complica la puntualidad de los repartos. Señala que los retrasos generan pérdidas de tiempo y posibles cancelaciones de parte de clientes que recurren a otros distribuidores, afectando su reputación y rentabilidad. Considera que los indicadores logísticos dentro de una aplicación debería permitirles gestionar inventarios, controlar la rotación de productos y exhibir el catálogo disponible para la venta, todo dentro de un entorno seguro y accesible para los clientes verificados.
+        Luis Javier Jiménez Sandoval, a 52-year-old businessman from Lima, has 28 years of experience in liquor sales and distribution, both wholesale and retail, within Lima Metropolitan sector. His business is characterized by a consolidated trajectory based on trust relationships, mainly with bars, restaurants, and liquor stores, avoiding supermarkets due to high volumes and bonus requirements. Regarding market seasonality, Javier explains that the most demanded products vary by season: spirits (whisky, vodka, 40° rum) sell best in autumn and winter, while beers and ready-to-drink beverages (RTD) dominate spring and summer. Distribution volume fluctuates between 500 and 1000 boxes monthly, depending on seasonality. 
 
-        El usuario también comentó sus experiencias negativas del rubro como intentos de estafa de clientes y pagos falsos. Por ello, insiste en que cualquier sistema digital debe incluir mecanismos de seguridad y validación de compradores, además de seguimiento georreferenciado de unidades de reparto que permitan visualizar las rutas y el estado de las entregas en tiempo real. Finalmente, recomienda que los desarrolladores de este tipo de plataformas consideren las “variables ocultas” del mercado de licores, como las bonificaciones por volumen, premios de fidelización (viajes, electrodomésticos, autos) y los costos logísticos derivados del tráfico y los retrasos urbanos, para ofrecer un sistema integral que refleje el valor real de la operación.
+        His main communication channel with clients is WhatsApp, discarding email as slower. He states that his client network has formed through word of mouth and personal recommendations, though he recognizes the need to adapt to the current digital environment, planning to implement social networks as a sales channel soon. Javier shows a receptive attitude towards digitalization, expressing interest in a mobile app to streamline orders, filter clients, and ensure transaction security. He highlights the importance of the system implementing validation filters such as identity verification or RUC registration to prevent fraud, comparing it to classification systems used in services like eDriver or phone apps that identify suspicious calls.
 
-**Segmento 3: Dueños de negocios (bares, licorerias, restaurantes)**
+        Regarding operational management, he identifies as a fundamental need knowing the status of his orders in real time, due to frequent delivery delays, especially in Lima, where traffic complicates punctuality. He notes that delays cause time losses and possible cancellations from clients who turn to other distributors, affecting reputation and profitability. He considers that logistics indicators within an app should allow inventory management, product rotation control, and display of the available sales catalog, all within a secure and accessible environment for verified clients.
 
-- **Información de la entrevista \#1:**
+        The user also commented on negative experiences in the field, such as client scams and fake payments. Therefore, he insists that any digital system must include security and buyer validation mechanisms, as well as georeferenced tracking of delivery units to visualize routes and delivery status in real time. Finally, he recommends that developers of such platforms consider the “hidden variables” of the liquor market, such as volume bonuses, loyalty rewards (trips, appliances, cars), and logistics costs from traffic and urban delays, to offer a comprehensive system reflecting the real value of the operation.
 
-    - **Nombres:** Carla
-    - **Apellidos:** Martinéz
-    - **Edad:** 33 años  
-    - **Distrito:** San Juan de Miraflores 
+**Segment 3: Business Owners (bars, liquor stores, restaurants)**
+
+- **Interview Information #1:**
+
+    - **Names:** Carla
+    - **Surnames:** Martinéz
+    - **Age:** 33 years  
+    - **District:** San Juan de Miraflores 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento3-Entrevista1.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento3-Entrevista1.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Carla Martínez, administradora de un negocio minorista con tres años de operación, demuestra una personalidad organizada, metódica y enfocada en el control del inventario. A sus 33 años, combina disciplina y adaptabilidad en la gestión, destacando por un liderazgo práctico y una visión orientada a la eficiencia operativa. Su labor diaria se centra en coordinar los procesos de abastecimiento y mantener la estabilidad del flujo de productos, apoyándose principalmente en herramientas digitales básicas.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):** 
 
-        El negocio utiliza una computadora de escritorio (PC) para la gestión de pedidos e inventarios, mientras que la comunicación con los proveedores se realiza mediante llamadas telefónicas, correos electrónicos y WhatsApp, lo que le permite mantener un contacto directo y constante con sus aliados comerciales. Este enfoque refleja un entorno de gestión digital sencillo pero funcional, basado en la confianza y la comunicación continua.
+        01:21:59 - 01:25:35 
+    - **Descriptive Summary:**
 
-        En cuanto a sus criterios de selección de proveedores, Carla prioriza la confianza, calidad de los productos y trayectoria de la marca en el mercado. Suele realizar pedidos con anticipación para garantizar la disponibilidad de stock, aunque reconoce que la coordinación puede resultar variable, dependiendo de la demanda y del control de los artículos más solicitados. Entre las principales dificultades que enfrenta se encuentran los retrasos en las entregas, la falta de productos específicos y las fluctuaciones inesperadas en los precios, factores que afectan la planificación y satisfacción del cliente.
+        Carla Martínez, administrator of a retail business with three years of operation, demonstrates an organized, methodical personality focused on inventory control. At 33, she combines discipline and adaptability in management, standing out for practical leadership and a vision oriented towards operational efficiency. Her daily work centers on coordinating supply processes and maintaining stable product flow, mainly relying on basic digital tools.
 
-        Carla considera esencial contar con confirmaciones claras de envío y conocer los horarios exactos de llegada de los pedidos, lo que aportaría previsibilidad y control sobre las operaciones. Además, percibe que un sistema de seguimiento en tiempo real incrementa la confianza y transparencia en la relación con los proveedores. Finalmente, expresa una disposición abierta a invertir en soluciones tecnológicas que aporten transparencia, confiabilidad y puntualidad, siempre que estas estén alineadas con su misión de ofrecer un servicio de calidad y confianza a la sociedad.
+        The business uses a desktop computer (PC) for order and inventory management, while communication with suppliers is done via phone calls, emails, and WhatsApp, allowing direct and constant contact with commercial partners. This approach reflects a simple but functional digital management environment, based on trust and continuous communication.
 
-- **Información de la entrevista \#2:**
+        Regarding supplier selection criteria, Carla prioritizes trust, product quality, and brand reputation in the market. She usually places orders in advance to ensure stock availability, though she recognizes that coordination can vary depending on demand and control of the most requested items. Main difficulties include delivery delays, lack of specific products, and unexpected price fluctuations, factors affecting planning and customer satisfaction.
 
-    - **Nombres:** Alejandro
-    - **Apellidos:** Rodrigez
-    - **Edad:** 37 años  
-    - **Distrito:** Lima metropolitana 
+        Carla considers it essential to have clear shipping confirmations and know exact arrival times for orders, providing predictability and control over operations. She also perceives that a real-time tracking system increases trust and transparency in supplier relationships. Finally, she expresses openness to investing in technological solutions that provide transparency, reliability, and punctuality, as long as these align with her mission to offer quality and trustworthy service to society.
+
+- **Interview Information #2:**
+
+    - **Names:** Alejandro
+    - **Surnames:** Rodrigez
+    - **Age:** 37 years  
+    - **District:** Lima metropolitan 
     - **Screenshot:**  
 
-      ![Entrevista2](../src/images/chapter2/interviews/Segmento3-Entrevista2.jpg)  
+      ![Interview2](../src/images/chapter2/interviews/Segmento3-Entrevista2.jpg)  
         
     - **URL:**  
-    - **Timing (Inicio \- Fin):**  
-    - **Resumen descriptivo:**
 
-        Alejandro Rodríguez, de 37 años, es propietario de un bar de tamaño mediano ubicado en Lima, con varios años de funcionamiento. Su negocio se orienta a un público joven y adulto joven. Alejandro proyecta una personalidad organizada, analítica y con interés en mantener control operativo, aunque delega parte de la gestión a su equipo. Muestra predisposición al uso de la tecnología, aunque prefiere mantener una supervisión directa de los procesos administrativos.
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
+    - **Timing (Start - End):**  
 
+        01:14:52 - 01:21:57
+    - **Descriptive Summary:**
 
-        En cuanto al uso de tecnología, su dinámica de trabajo se apoya principalmente en smartphones y laptops. Los smartphones se emplean para la coordinación rápida de inventarios y pedidos, mientras que la laptop es su herramienta preferida para redactar reportes, realizar facturación y revisar detalles administrativos. No menciona el uso de software especializado, sino herramientas comunes y accesibles, lo que indica un nivel medio de digitalización.
+        Alejandro Rodríguez, 37, is the owner of a medium-sized bar in Lima, with several years of operation. His business targets a young and young adult audience. Alejandro projects an organized, analytical personality interested in maintaining operational control, though he delegates part of management to his team. He shows willingness to use technology, though prefers direct supervision of administrative processes.
 
+        Regarding technology use, his work dynamic relies mainly on smartphones and laptops. Smartphones are used for quick inventory and order coordination, while the laptop is his preferred tool for writing reports, invoicing, and reviewing administrative details. He does not mention using specialized software, but rather common and accessible tools, indicating a medium level of digitalization.
 
-        Alejandro utiliza WhatsApp como medio principal para interactuar con proveedores, destacando su rapidez y practicidad. Para proveedores más grandes o con mayor formalidad, recurre al correo electrónico o a los perfiles corporativos de las empresas, lo que refleja adaptabilidad según el tipo de interlocutor. Son herramientas con procesos lentos o no estandarizados para adoptarlo como regla dentro de un negocio formal.
+        Alejandro uses WhatsApp as the main means to interact with suppliers, highlighting its speed and practicality. For larger or more formal suppliers, he resorts to email or corporate profiles, reflecting adaptability depending on the interlocutor. These are slow or non-standardized processes to adopt as a rule in a formal business.
 
+        Consequently, the user indicated frequent difficulties such as order delays, last-minute changes in merchandise arrival, price changes without notice, and problems with damaged or poorly packed products.
 
-        Por consiguiente, el usuario nos indicó como dificultades frecuentes los retrasos en pedidos, cambios de última hora de la llegada de su mercancía, modificaciones de precios sin previo aviso y problemas de productos dañados o mal empacados.
+        Alejandro emphasizes the need for immediate order confirmations, visibility of delivery status in real time, and the possibility to report incidents or issues directly in a platform. He shows special interest in having an integrated and automated system, with automatic notifications, pre-dispatch checklists, and centralized tracking of the entire logistics process. He considers this would reduce errors and improve communication with suppliers and delivery personnel.
 
+        In general, he is a pragmatic, technologically active but not specialized user. His digital habits rely on everyday tools (WhatsApp, email, laptop), and his improvement vision is centered on automation and traceability for his business.
 
-        Alejandro enfatiza la necesidad de confirmaciones inmediatas de pedidos, visibilidad del estado de las entregas en tiempo real y la posibilidad de reportar incidentes o inconvenientes directamente en una plataforma. Muestra especial interés en contar con un sistema integrado y automatizado, con notificaciones automáticas, checklists previos a despachos y seguimiento centralizado de todo el proceso logístico. Considera que esto permitiría reducir errores y mejorar la comunicación con proveedores y repartidores.
+- **Interview Information #3:**
 
-
-        En general, es un usuario pragmático, tecnológicamente activo pero no especializado. Sus hábitos digitales se apoyan en herramientas cotidianas (WhatsApp, correo, laptop), y su visión de mejora está centrada en la automatización y la trazabilidad a favor de su negocio.
-
-- **Información de entrevista \#3:**
-
-    * **Nombres:**  
-    * **Apellidos:**   
-    * **Edad:**   
-    * **Distrito:**   
+    * **Names:** Bruno  
+    * **Surnames:** Del Castillo  
+    * **Age:** 27 years   
+    * **District:** Trujillo   
     * **Screenshot:**  
-    * **URL:**  
-    * **Timing (Inicio \- Fin):**  
-    * **Resumen descriptivo:**
+        ![Interview3](../src/images/chapter2/interviews/Segmento3-Entrevista3.jpg)
+    * **URL:** 
+
+        [Link](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN) 
+    * **Timing (Start - End):** 
+
+        01:25:36 - 01:30:20 
+    * **Descriptive Summary:**
+
+        Logistics manager at a grocery store in Trujillo, leads a business with six years of operation and a consolidated clientele, especially active during high demand periods such as holidays and weekends. Despite his youth, he demonstrates an organized, practical personality with an operational focus, combining administrative responsibility with adaptability under market pressure.
+
+        In technological terms, Bruno uses the smartphone as the main tool for quick order management and supplier communication, while the PC is used for inventory tasks. However, his inventory management still maintains a manual or semi-digital component, relying on notebooks or Excel files, evidencing a partial transition to digitalization.
+
+        Regarding supplier selection criteria, Bruno prioritizes punctuality, price stability, stock availability, and ease of payment, showing a pragmatic vision focused on operational reliability. He prefers to plan orders in advance, though admits that sometimes emergency orders are needed when stock unexpectedly drops.
+
+        Common difficulties include delivery delays, out of stock, poor communication, and unannounced changes, factors affecting logistics efficiency and response capacity to demand.
+
+        Finally, he is open to investing in technological solutions that provide transparency, reliability, and traceability, valuing features such as purchase history, expense reports, online payments, and personalized alerts. This profile shows a proactive, modern mindset, willing to adopt digital tools that integrate management processes and improve overall business efficiency.
 
 
-### 2.2.3. Análisi de entrevistas
+### 2.2.3. Interview Analysis
 
-**Segmento 1: Empresas de transporte de camiones**
+**Segment 1: Truck Transport Companies**
 
-    Se analizaron entrevistas a gerentes de operaciones de empresas transportistas que utilizan herramientas digitales básicas para coordinar sus flotas. La información permitió identificar características objetivas y subjetivas clave para la planificación del proyecto.
+    Interviews were conducted with operations managers of transport companies using basic digital tools to coordinate their fleets. The information allowed identification of key objective and subjective characteristics for project planning.
 
-    | Característica | Mención | % | Evidencia |
+    | Characteristic | Mention | % | Evidence |
 | :---- | :---- | :---- | :---- |
-| **Uso de smartphones Android como herramienta principal de coordinación** | **3/3** | **100%** | **Los tres entrevistados mencionan el uso de teléfonos móviles Android para comunicación, coordinación y seguimiento de rutas.** |
-| **Uso de hojas de cálculo (Excel) para planificación o control** | **2/3** | **66%** | **Percy y Luis refieren el uso de hojas de cálculo para planificar rutas y monitorear operaciones administrativas.** |
-| **Empleo de sistemas GPS para rastreo de flotas** | **3/3** | **100%** | **Todos utilizan GPS: Luis (Frotcom), Jordan (Geotab) y Percy (GPS básico).** |
-| **limitaciones tecnológicas por costo o falta de capacitación** | **2/3** | **66%** | **Luis y Percy mencionan que los costos y la capacitación son obstáculos para implementar nuevas herramientas digitales.** |
-| **Interés en monitoreo avanzado (alertas de temperatura, impactos, fatiga del conductor)** | **3/3** | **100%** | **Todos expresan interés en contar con datos más detallados y sensores que garanticen seguridad y trazabilidad.** |
-| **Predisposición positiva hacia la digitalización con enfoque práctico** | **3/3** | **100%** | **Todos valoran la tecnología, pero priorizan la utilidad y el retorno operativo sobre la complejidad del sistema.** |
-| **Interés en integrar sistemas más robustos (TMS, SAP, Frotcom)** | **2/3** | **66%** | **Luis utiliza Frotcom y Jordan está en proceso de migración hacia SAP S/4HANA y TMS para automatizar procesos.** |
-| **Uso de computadoras con sistema Windows** | **3/3** | **100%** | **Se menciona explícitamente el uso de laptops o PCs con Windows para gestiones logísticas y administrativas.** |
-| **Problemas frecuentes: mermas o daños en la carga** | **3/3** | **100%** | **Mencionan pérdidas o daños por malas condiciones de camino, manejo o apilamiento deficiente.** |
-| **Alta experiencia en el rubro de transporte y distribución** | **3/3** | **100%** | **Todos superan los 5 años de experiencia en transporte, logística o distribución a nivel nacional.** |
+| **Use of Android smartphones as the main coordination tool** | **3/3** | **100%** | **All three interviewees mention using Android mobile phones for communication, coordination, and route tracking.** |
+| **Use of spreadsheets (Excel) for planning or control** | **2/3** | **66%** | **Percy and Luis refer to using spreadsheets to plan routes and monitor administrative operations.** |
+| **Use of GPS systems for fleet tracking** | **3/3** | **100%** | **All use GPS: Luis (Frotcom), Jordan (Geotab), and Percy (basic GPS).** |
+| **Technological limitations due to cost or lack of training** | **2/3** | **66%** | **Luis and Percy mention that costs and training are obstacles to implementing new digital tools.** |
+| **Interest in advanced monitoring (temperature alerts, impacts, driver fatigue)** | **3/3** | **100%** | **All express interest in having more detailed data and sensors for safety and traceability.** |
+| **Positive predisposition towards digitalization with a practical focus** | **3/3** | **100%** | **All value technology but prioritize utility and operational return over system complexity.** |
+| **Interest in integrating more robust systems (TMS, SAP, Frotcom)** | **2/3** | **66%** | **Luis uses Frotcom and Jordan is migrating to SAP S/4HANA and TMS to automate processes.** |
+| **Use of computers with Windows system** | **3/3** | **100%** | **Explicit mention of using laptops or PCs with Windows for logistics and administrative management.** |
+| **Frequent problems: shrinkage or cargo damage** | **3/3** | **100%** | **Mention losses or damage due to poor road conditions, handling, or poor stacking.** |
+| **High experience in transport and distribution** | **3/3** | **100%** | **All have over 5 years of experience in national transport, logistics, or distribution.** |
 
 **Insights**
 
-1. Aunque las empresas utilizan GPS o plataformas digitales, el smartphone Android sigue siendo la herramienta central para la coordinación diaria. Esto evidencia una digitalización práctica pero aún limitada, centrada en la comunicación más que en la automatización.  
-2. Los tres gerentes valoran las soluciones tecnológicas que aporten eficiencia tangible sin requerir procesos complejos. Esto sugiere que el mercado está preparado para herramientas intuitivas y modulares antes que por sistemas de gran escala.  
-3. La recurrencia de pérdidas por apilamiento deficiente o carreteras en mal estado refleja la falta de integración entre monitoreo digital y gestión física de las operaciones, abriendo espacio para sistemas predictivos o de alerta temprana.
+1. Although companies use GPS or digital platforms, the Android smartphone remains the central tool for daily coordination. This shows practical but still limited digitalization, focused more on communication than automation.  
+2. All three managers value technological solutions that provide tangible efficiency without requiring complex processes. This suggests the market is ready for intuitive, modular tools rather than large-scale systems.  
+3. Recurring losses due to poor stacking or bad roads reflect the lack of integration between digital monitoring and physical management of operations, opening space for predictive or early alert systems.
 
-**Segmento 2: Distribuidores de licores**
+**Segment 2: Liquor Distributors**
 
-Se analizaron entrevistas a dos distribuidores con amplia experiencia logística. Ambos presentan prácticas similares pese a diferencias en el tamaño de sus flotas.
+Interviews were conducted with two distributors with extensive logistics experience. Both have similar practices despite differences in fleet size.
 
-| Característica | Mención | % | Evidencia |
+| Characteristic | Mention | % | Evidence |
 | :---- | :---- | :---- | :---- |
-| **Uso de smartphones Android y WhatsApp para coordinar entregas y pedidos** | **3/3** | **100%** | **Todos los entrevistados mencionan el uso de teléfonos móviles y WhatsApp como herramientas clave de comunicación entre conductores, clientes y supervisores.** |
-| **Uso de computadoras o laptops para tareas administrativas** | **3/3** | **100%** | **Los tres entrevistados reportan emplear computadoras para la gestión de inventarios, facturación o contabilidad.** |
-| **Dependencia de reportes manuales o tardíos sobre incidencias** | **2/3** | **66%** | **Omar y Lulio afirman que los incidentes se reportan mediante mensajes o fotos, a menudo con demoras.** |
-| **Valoración del retorno de inversión (ROI) como criterio de adopción tecnológica** | **2/3** | **100%** | **Omar y Luis Javier enfatizan que las nuevas tecnologías deben justificar su costo mediante beneficios medibles.** |
-| **Interés en seguridad digital y validación de clientes o pedidos** | **1/3** | **33%** | **Luis Javier menciona la necesidad de filtros de validación y mecanismos antifraude en plataformas digitales.** |
-| **Reconocimiento de pérdidas y mermas por fallas logísticas o incidentes** | **2/3** | **66%** | **Omar y Lulio reportan pérdidas de producto y accidentes como problemas frecuentes.** |
-| **Falta de trazabilidad o monitoreo en tiempo real** | **3/3** | **100%** | **Los tres coinciden en la necesidad de soluciones que brinden seguimiento continuo y alertas ante retrasos o incidencias.** |
-| **Experiencia consolidada en el rubro de distribución** | **3/3** | **100%** | **Todos superan los 10 años en el sector, con cargos de liderazgo o supervisión logística.** |
+| **Use of Android smartphones and WhatsApp to coordinate deliveries and orders** | **3/3** | **100%** | **All interviewees mention using mobile phones and WhatsApp as key communication tools among drivers, clients, and supervisors.** |
+| **Use of computers or laptops for administrative tasks** | **3/3** | **100%** | **All three report using computers for inventory management, invoicing, or accounting.** |
+| **Dependence on manual or delayed incident reports** | **2/3** | **66%** | **Omar and Lulio state that incidents are reported via messages or photos, often with delays.** |
+| **Valuing ROI as a criterion for technology adoption** | **2/3** | **100%** | **Omar and Luis Javier emphasize that new technologies must justify their cost with measurable benefits.** |
+| **Interest in digital security and client/order validation** | **1/3** | **33%** | **Luis Javier mentions the need for validation filters and anti-fraud mechanisms in digital platforms.** |
+| **Recognition of losses and shrinkage due to logistics failures or incidents** | **2/3** | **66%** | **Omar and Lulio report product losses and accidents as frequent problems.** |
+| **Lack of traceability or real-time monitoring** | **3/3** | **100%** | **All agree on the need for solutions providing continuous tracking and alerts for delays or incidents.** |
+| **Consolidated experience in distribution** | **3/3** | **100%** | **All have over 10 years in the sector, with leadership or logistics supervision roles.** |
 
 **Insights**
 
-1. La tecnología se usa más para comunicación y gestión básica que para control logístico integral; aún predomina la dependencia de hojas de cálculo y reportes manuales.  
-2. Algunos actores, especialmente los más digitalizados, demandan sistemas con validación antifraude y monitoreo de pedidos para evitar estafas o entregas fallidas.  
-3. A pesar de décadas de experiencia, los líderes del segmento aún no cuentan con herramientas de gestión automatizada que integren la información logística y comercial.
+1. Technology is used more for communication and basic management than for comprehensive logistics control; there is still dependence on spreadsheets and manual reports.  
+2. Some actors, especially the more digitalized, demand systems with anti-fraud validation and order monitoring to prevent scams or failed deliveries.  
+3. Despite decades of experience, segment leaders still lack automated management tools integrating logistics and commercial information.
 
 
-**Segmento 3: Dueños de negocios**
+**Segment 3: Business Owners**
 
-Este segmento corresponde a pequeños comerciantes minoristas con entre 2 y 3 años de experiencia consolidando su negocio propio.
+This segment corresponds to small retail merchants with 2 to 3 years of experience consolidating their own business.
 
-| Característica | Mención | % | Evidencia |
-| :---- | :---- | :---- | :---- |
-| **Perfil organizado y orientado al control operativo**  | **2/2** | **100%** | **Ambos priorizan la planificación, el seguimiento de inventarios y el control de los procesos.** |
-|  **Uso de tecnología básica o media (sin sistemas especializados)** | **2/2** | **100%** | **Utilizan PC, laptops y smartphones para operaciones diarias. No usan software avanzado.** |
-| **Valoran la confianza y puntualidad de proveedores** | **2/2** | **100%** | **La fiabilidad, cumplimiento y comunicación clara son los factores más importantes.** |
-| **Motivación por mantener la calidad del servicio** | **2/2** | **100%** | **Consideran que la eficiencia tecnológica mejora la satisfacción del cliente final.** |
-| **Interés en automatizar la gestión de pedidos** | **2/2** | **100%** | **Buscan optimizar tiempos y tener visibilidad en tiempo real de los pedidos.** |
+| Characteristic | Mention | % | Evidence |
+| ----- | :---: | :---: | ----- |
+| Organized profile oriented to operational control | 3/3 | 100% | All three prioritize planning, inventory control, and direct order management. |
+| Use of basic or medium technology (no specialized systems) | 3/3 | 100% | Use PC, laptops, and smartphones for operations; none use specialized logistics management software. |
+| Value trust, punctuality, and communication with suppliers | 3/3 | 100% | Reliability, compliance, and clear information are essential criteria for choosing and maintaining suppliers. |
+| Motivation to maintain service quality and business reputation | 3/3 | 100% | Associate technological efficiency with customer satisfaction and professional business image. |
+| Interest in automating or digitalizing order management | 3/3 | 100% | Want to improve traceability, receive alerts, and have real-time visibility of order status. |
+| Preference for familiar and easily accessible tools | 3/3 | 100% | Use WhatsApp, calls, and email; avoid complex processes or hard-to-use platforms. |
+| Constant concern about delays and unexpected changes | 3/3 | 100% | Mention delays, variable prices, and communication problems as main pain points in logistics. |
+| Willingness to invest in technological solutions if they generate tangible value | 2/3 | 66% | Carla and Bruno indicate willingness to invest in systems providing transparency and operational control. |
+| Semi-digital or manual inventory management | 2/3 | 66% | Bruno and Carla still record part of their inventories with traditional methods or Excel files. |
+| Need for confirmations and real-time tracking | 3/3 | 100% | All consider automatic notifications and delivery confirmations crucial to reduce uncertainty. |
 
-**Insights**
+  * **Insights**  
+    * Business owners want to visualize the status of their orders, deliveries, and confirmations in real time.
 
-1. Los dueños de negocios manejan herramientas tecnológicas básicas (WhatsApp, correo, PC) sin recurrir a software especializado, lo que deja espacio para soluciones accesibles y fáciles de usar.  
-2.  La motivación principal para adoptar nuevas tecnologías es mantener la satisfacción del consumidor y no perder reputación por errores o demoras logísticas.
+    * There is strong dependence on WhatsApp as a management channel with suppliers, which could be integrated into the GlassGo proposal.
 
-3. Los retrasos, cambios de última hora y precios variables generan desconfianza y afectan la planificación del negocio.
-
+    * Their need is less in the fleet and more in inventory management and purchase forecasting, which can be solved with clear, simple reports.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
-    En esta sección se presentan tres **User Personas** que representan los segmentos clave del proyecto: los **Transportistas de carga**, las **Distribuidoras de licores** y los **Dueños de bares y licorerías**. Estos perfiles permiten comprender en profundidad las **necesidades, motivaciones, frustraciones y comportamientos** de los usuarios potenciales del sistema **GlassGo**, una plataforma que busca mejorar la trazabilidad, la eficiencia y la seguridad en el transporte de licores en envases de vidrio en el Perú.
+    This section presents three User Personas representing the project's key segments: Freight Carriers, Liquor Distributors, and Bar/Liquor Store Owners. These profiles allow a deep understanding of the needs, motivations, frustrations, and behaviors of potential users of the GlassGo system, a platform seeking to improve traceability, efficiency, and security in the transport of glass-packaged liquors in Peru.
 
-    El **User Persona Jorge Mendoza** representa a los transportistas independientes de carga pesada, encargados de trasladar bebidas entre distintas ciudades del país. Jorge tiene más de veinte años de experiencia en el rubro y trabaja con una flota envejecida que le genera dificultades operativas y pérdidas por rotura de botellas. Ha probado algunas herramientas de geolocalización, pero ninguna se adapta realmente a las condiciones de las rutas locales ni a su nivel de familiaridad digital. Su principal motivación es **optimizar las rutas y reducir los costos de combustible y mantenimiento**, logrando entregas puntuales que le permitan mantener su reputación y contratos. Busca una solución simple, accesible y confiable que le permita monitorear su carga sin depender de procesos manuales o llamadas telefónicas.
+        * **Segment 1: Truck Transport Companies**
 
-    El **User Persona Andrea Flores** representa a las distribuidoras de licores, responsables de garantizar que los pedidos lleguen completos y en buen estado. Andrea gestiona la logística de distribución para bares y restaurantes en Lima, y con frecuencia enfrenta pérdidas por robos parciales o botellas dañadas durante el transporte. Aunque ha implementado algunos sistemas de control, estos suelen ser costosos o poco adaptables a las necesidades de su empresa. Su motivación principal es **contar con trazabilidad total de la carga y minimizar los riesgos en cada entrega**, asegurando la confianza de sus clientes. Busca una plataforma que le ofrezca visibilidad en tiempo real, alertas automáticas y reportes simples que le permitan tomar decisiones rápidas sin depender de múltiples canales de comunicación.
+            The User Persona Jorge Mendoza represents independent heavy cargo carriers, responsible for transporting beverages between different cities in the country. Jorge has more than twenty years of experience in the field and works with an aging fleet that causes operational difficulties and losses due to bottle breakage. He has tried some geolocation tools, but none really adapt to local route conditions or his level of digital familiarity. His main motivation is to optimize routes and reduce fuel and maintenance costs, achieving timely deliveries to maintain his reputation and contracts. He seeks a simple, accessible, and reliable solution to monitor his cargo without relying on manual processes or phone calls.
 
-    Por su parte, el **User Persona José Álvarez** representa a los dueños de bares y licorerías, quienes dependen de la puntualidad de sus proveedores para mantener el flujo de ventas. José administra un bar en Miraflores y ha tenido que lidiar con entregas tardías o incompletas que afectan directamente su inventario y promociones. Ha intentado llevar un control de pedidos mediante hojas de cálculo y mensajería, pero estos métodos le resultan ineficientes y poco precisos. Su motivación principal es **contar con un sistema que le brinde transparencia y puntualidad en los pedidos**, permitiéndole planificar mejor sus compras y evitar pérdidas por falta de stock. Busca una herramienta intuitiva, visual y de fácil acceso que le permita recibir notificaciones de entrega en tiempo real y mantener comunicación directa con sus proveedores.
+        ![UP1](../src/images/chapter2/needfinding/User-Persona1.png)
 
-    En conjunto, estos tres perfiles reflejan los principales desafíos y oportunidades dentro de la cadena logística del transporte de licores en el Perú. Comprender sus necesidades y comportamientos permite al equipo de diseño **alinear las funcionalidades de GlassGo con las expectativas reales de los usuarios finales**, asegurando una solución eficiente, escalable y centrada en la experiencia de todos los actores involucrados.
+        * **Segment 2: Liquor Suppliers**
 
+            The User Persona Andrea Flores represents liquor distributors, responsible for ensuring orders arrive complete and in good condition. Andrea manages distribution logistics for bars and restaurants in Lima, frequently facing losses due to partial thefts or damaged bottles during transport. Although she has implemented some control systems, these are often expensive or not adaptable to her company's needs. Her main motivation is to have total cargo traceability and minimize risks in each delivery, ensuring client trust. She seeks a platform offering real-time visibility, automatic alerts, and simple reports to make quick decisions without relying on multiple communication channels.
 
+        ![UP2](../src/images/chapter2/needfinding/User-Persona2.png)
+
+        * **Segment 3: Business Owners**
+
+            The User Persona José Álvarez represents bar and liquor store owners, who depend on supplier punctuality to maintain sales flow. José manages a bar in Miraflores and has had to deal with late or incomplete deliveries that directly affect his inventory and promotions. He has tried to control orders using spreadsheets and messaging, but these methods are inefficient and inaccurate. His main motivation is to have a system providing transparency and punctuality in orders, allowing better purchase planning and avoiding losses due to lack of stock. He seeks an intuitive, visual, and easily accessible tool to receive real-time delivery notifications and maintain direct communication with suppliers.
+
+        ![UP3](../src/images/chapter2/needfinding/User-Persona3.png)
+        
 ### 2.3.2. User Task Matrix
 
-* **Segmento 1: Empresas de transporte de camiones**
+* **Segment 1: Truck Transport Companies**
 
-| Tareas | Sandra Haro (Gerente de Operaciones) |  |
+| Tasks | Sandra Haro (Operations Manager) |  |
 | ----- | :---: | :---: |
-|  | **Frecuencia** | **Importancia** |
-| Optimizar rutas para reducir costos de combustible y tiempo | Always | High |
-| Monitorear conductores y vehículos en tiempo real | Always | High |
-| Gestionar la trazabilidad de productos terminados | Often | High |
-| Coordinar con clientes sobre horarios de entrega | Often | High |
-| Implementar nuevas tecnologías de monitoreo y sensores | Sometimes | High |
-| Generar reportes de eficiencia operativa | Often | Medium |
-| Mantener comunicación con conductores por incidencias | Always | High |
-| Analizar dependencia de terceros para planificación | Sometimes | Medium |
-| Buscar soluciones que reduzcan ineficiencias | Often | High |
-| Supervisar procesos logísticos para evitar fallas | Always | Medium |
+|  | **Frequency** | **Importance** |
+| Optimize routes to reduce fuel and time costs | Always | High |
+| Monitor drivers and vehicles in real time | Always | High |
+| Manage traceability of finished products | Often | High |
+| Coordinate with clients about delivery schedules | Often | High |
+| Implement new monitoring and sensor technologies | Sometimes | High |
+| Generate operational efficiency reports | Often | Medium |
+| Maintain communication with drivers about incidents | Always | High |
+| Analyze third-party dependency for planning | Sometimes | Medium |
+| Seek solutions to reduce inefficiencies | Often | High |
+| Supervise logistics processes to avoid failures | Always | Medium |
 
 
-* **Segmento 2: Proveedores de licores**
+* **Segment 2: Liquor Suppliers**
 
-| Tareas | Ricardo Salazar (Gerente General) |  |
+| Tasks | Ricardo Salazar (General Manager) |  |
 | ----- | :---: | :---: |
-|  | **Frecuencia** | **Importancia** |
-| Optimizar la logística para reducir costos operativos | Always | High |
-| Mantener confianza con hoteles, restaurantes y tiendas grandes | Always | High |
-| Garantizar entregas puntuales y seguimiento en tiempo real | Always | High |
-| Administrar equipo de más de 30 personas | Often | High |
-| Gestionar inventario para evitar pérdidas y roturas | Always | High |
-| Coordinar con transportistas para entregas eficientes | Often | High |
-| Analizar reportes tardíos de sistemas y realizar ajustes | Sometimes | Medium |
-| Supervisar costos adicionales por reposiciones pendientes | Often | High |
-| Mantener relaciones comerciales sólidas y duraderas | Often | High |
-| Implementar herramientas tecnológicas para mejorar eficiencia | Sometimes | High |
+|  | **Frequency** | **Importance** |
+| Optimize logistics to reduce operating costs | Always | High |
+| Maintain trust with hotels, restaurants, and large stores | Always | High |
+| Ensure timely deliveries and real-time tracking | Always | High |
+| Manage a team of over 30 people | Often | High |
+| Manage inventory to avoid losses and breakages | Always | High |
+| Coordinate with carriers for efficient deliveries | Often | High |
+| Analyze delayed system reports and make adjustments | Sometimes | Medium |
+| Supervise additional costs for pending replacements | Often | High |
+| Maintain strong, lasting business relationships | Often | High |
+| Implement technological tools to improve efficiency | Sometimes | High |
 
 
-* **Segmento 3: Dueños de negocios**
+* **Segment 3: Business Owners**
 
-| Tareas | María Fernanda Ruiz (Administradora de Negocio) |  |
+| Tasks | María Fernanda Ruiz (Business Administrator) |  |
 | ----- | :---: | :---: |
-|  | **Frecuencia** | **Importancia** |
-| Mantener un inventario ordenado y confiable | Always | High |
-| Evitar quiebres de stock en productos de mayor rotación | Always | High |
-| Garantizar calidad de productos antes de la venta | Always | High |
-| Gestionar pedidos utilizando PC y decisiones | Often | High |
-| Comunicarse con proveedores vía WhatsApp principalmente | Often | High |
-| Planificar compras anticipadas para eventos especiales | Sometimes | High |
-| Implementar sistemas de seguimiento en tiempo real | Sometimes | High |
-| Reducir pérdidas y sobrecostos por retrasos o fallas | Often | High |
-| Adoptar soluciones digitales simples y accesibles | Sometimes | Medium |
-| Mejorar transparencia y eficiencia en la cadena logística | Often | High |
+|  | **Frequency** | **Importance** |
+| Maintain an organized and reliable inventory | Always | High |
+| Avoid stockouts in high-turnover products | Always | High |
+| Ensure product quality before sale | Always | High |
+| Manage orders using PC and decision-making | Often | High |
+| Communicate with suppliers mainly via WhatsApp | Often | High |
+| Plan purchases in advance for special events | Sometimes | High |
+| Implement real-time tracking systems | Sometimes | High |
+| Reduce losses and extra costs due to delays or failures | Often | High |
+| Adopt simple and accessible digital solutions | Sometimes | Medium |
+| Improve transparency and efficiency in the logistics chain | Often | High |
 
 ### 2.3.3. User Journey Mapping
 
-* **Segmento 1: Empresas de transporte de camiones**
+* **Segment 1: Truck Transport Companies**
 
-    ![User Journey Mapping Segmento 1](../src/images/chapter2/needfinding/journey-1.png)
+    ![User Journey Mapping Segment 1](../src/images/chapter2/needfinding/journey-1.png)
 
-* **Segmento 2: Proveedores de licores**
+* **Segment 2: Liquor Suppliers**
 
-    ![User Journey Mapping Segmento 2](../src/images/chapter2/needfinding/journey-2.png)
+    ![User Journey Mapping Segment 2](../src/images/chapter2/needfinding/journey-2.png)
 
-* **Segmento 3: Dueños de negocios**
+* **Segment 3: Business Owners**
 
-    ![User Journey Mapping Segmento 3](../src/images/chapter2/needfinding/journey-3.png)
+    ![User Journey Mapping Segment 3](../src/images/chapter2/needfinding/journey-3.png)
 
 ### 2.3.4. Empathy Mapping
 
-* **Segmento 1: Empresas de transporte de camiones**
+* **Segment 1: Truck Transport Companies**
 
-  *Sandra Haro \- Gerente de Operaciones (Empresa de Transporte)*
+  *Sandra Haro - Operations Manager (Transport Company)*
 
-    ![Empathy Mapping Segmento 1](../src/images/chapter2/needfinding/empathy-1.png)
+    ![Empathy Mapping Segment 1](../src/images/chapter2/needfinding/empathy-1.png)
 
-* **Segmento 2: Proveedores de licores**
+* **Segment 2: Liquor Suppliers**
 
-  *Ricardo Salazar \- Gerente General (Distribuidor)*
+  *Ricardo Salazar - General Manager (Distributor)*
 
-    ![Empathy Mapping Segmento 2](../src/images/chapter2/needfinding/empathy-2.png)
+    ![Empathy Mapping Segment 2](../src/images/chapter2/needfinding/empathy-2.png)
 
-* **Segmento 3: Dueños de negocios**
+* **Segment 3: Business Owners**
 
-  *María Fernanda Ruiz \- Administradora de Negocio Minorista*
+  *María Fernanda Ruiz - Retail Business Administrator*
 
-    ![Empathy Mapping Segmento 3](../src/images/chapter2/needfinding/empathy-3.png)
+    ![Empathy Mapping Segment 3](../src/images/chapter2/needfinding/empathy-3.png)
