@@ -1,3 +1,140 @@
+## Capitulo II: Requiremnts Elicitation & Analysis
+## 2.1. Competidores
+
+* **Verizon Connect (direct competitor):** This is a cloud-based fleet management platform that offers GPS tracking, route optimization, predictive maintenance, and vehicle security solutions. It is aimed at companies with medium and large fleets looking to improve logistics efficiency and reduce operating costs. It has a strong presence in the United States, Canada, and Europe, where it serves sectors such as transportation, construction, and distribution.
+
+
+* **Frotcom (direct competitor):** This is a fleet management software designed for real-time vehicle monitoring and control. It offers features such as geolocation, fuel consumption analysis, driver monitoring, and route planning. It focuses on medium and large companies that need to improve the traceability and efficiency of their transportation operations. It has an international presence, with strong adoption in Europe, Africa, and Latin America.
+
+
+* **Schockwatch (direct competitor):** This company specializes in shock- and vibration-sensitive devices and labels, designed to detect impacts and mishandling during transportation. Its products are used in sectors where the physical integrity of goods is critical, such as pharmaceuticals, electronics, and beverages. It has a global presence, with an extensive distributor network in the Americas, Europe, and Asia.
+
+### 2.1.1. Análisis competitivo
+
+| Competitive Analysis Landscape  |  |                                                                                                                                                                                                                                     |  |  |  |
+| ----- | ----- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --- | --- | --- |
+| **Why conduct this analysis?** | Compare seismic mapping technology proposals to identify competitive advantages in accessibility, education, and citizen personalization. |                                                                                                                                                                                                                                     | | | |
+| | |                                                                                                                                                                                                                                     | | | | |
+| | | **GlassGo**                                                                                                                                                                                                                         | **Verizon** | **Frotcom** | **Schockwatch** |
+| | | ![competitors](..\src\images\chapter2\competitors\GlassGo-Competidor)                                                                                                                                                                                                                  | ![competitors](..\src\images\chapter2\competitors\Verizon-competidor) | ![competitors](..\src\images\chapter2\competitors\Frotcom-competidor) | ![competitors](..\src\images\chapter2\competitors\SheckWatch-competidor) |
+| **Profile** | **Overview** | Comprehensive platform that seeks to improve safety and efficiency in the transportation of spirits in glass containers. It integrates real-time tracking, route optimization, and smart sensors, under an accessible membership model. | Global fleet management software. Offers GPS tracking, driver behavior reports, route optimization, and preventive maintenance compliance for all types of vehicles. | European fleet management system. Allows monitoring of location, fuel consumption, driver performance, and route planning for transportation companies. | Specialist in impact and temperature sensors. Its labels and devices record vibrations and shocks during the transport of fragile goods, reducing losses due to damage. |
+| | **Competitive Advantage: What value does it offer customers?** | Complete shipment traceability, breakage prevention through sensors, logistics optimization, and an affordable subscription model for companies of any size.                                                                        | Global coverage and advanced tools for large-scale fleets. | Simplicity in monitoring and costs adapted to medium-sized transport companies. | Specific protection for fragile goods using impact devices. |
+| **Marketing Profile** | **Target Market** | Transporters, distributors, and liquor business owners who require safety and efficiency in glass containers.                                                                                                                       | Large corporations with diverse fleets and needs for total control. | Growing transportation and logistics SMEs. | Companies that move delicate products (electronics, glass, premium foods). |
+| | **Marketing Strategies** | Digital strategy, alliances with distributors, and demonstrations at beverage and logistics trade shows.                                                                                                                            | Global campaigns, webinars, and B2B consultative sales. | Local distributors, personalized demonstrations, and after-sales support. | Specialized catalogs, industrial distributors, and presence at packaging events. |
+| **Product Profile** | **Products & Services** | SaaS platform with dashboard, smart impact sensors, real-time alerts, and analytical reports.                                                                                                                                       | Fleet management software, advanced telemetry, and performance reporting. | GPS tracking, fuel consumption, and route planning modules. | Visual indicators and electronic sensors to detect shocks and vibrations. |
+| | **Pricing & Costs** | Monthly membership scalable based on the number of vehicles and sensors.                                                                                                                                                            | Licenses per vehicle + installation. | Fee per device and monthly service. | Direct sales of devices and kits. |
+| | **Distribution Channels (Web and/or Mobile)** | Web platform and mobile app.                                                                                                                                                                                                        | Integrated website and mobile apps. | Website and lightweight mobile app. | Corporate website and physical distributors. |
+| **SWOT Analysis** | **Strengths** | Specialized solution for glass spirits, integrating traceability, breakage prevention, and optimization into a single system.                                                                                                       | Global experience and robust telemetry. | Ease of use and close support. | Accurate impact control. |
+| | **Opportunities** | Partnerships with wineries and distributors; integration with insurers; regional expansion.                                                                                                                                         | Adjust plans for specific sectors (beverages). | Expand services for delicate transportation. | Develop sensors connected to logistics platforms. |
+| | **Weaknesses** | Need to educate the market about its innovative proposal.                                                                                                                                                                           | High costs for SMEs. | Limited functionality for fragile goods. | Lack of comprehensive traceability and route optimization. |
+| | **Threats** | Entry of large fleet management players into the fragile goods niche.                                                                                                                                                               | Competition from more affordable solutions. | Advancement of free tracking tools. | Low-cost copies without technical support. |
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+* **GlassGo Strategic Approach:**
+
+GlassGo is positioned as the comprehensive solution for the transportation of spirits in glass containers, combining GPS tracking, route optimization, and smart sensors to minimize losses due to breakage and ensure transparency in the logistics chain. Unlike generic fleet management software or isolated impact monitoring devices, GlassGo specializes in a highly sensitive and profitable sector, with a flexible and accessible membership model for companies of any size.
+
+
+**Versus Verizon Connect:**
+
+
+* **Accessible Niche Strategy:** Targeting SMEs in the beverage and distribution sector with limited budgets, offering a more economical and specialized alternative to Verizon Connect's high-cost solutions.
+* **Flexible Model Tactic:** Implementation of a Netflix-like subscription plan, allowing access to advanced tools without large initial investments.
+* **Optimizing Technology Adoption:** Easy-to-integrate platform without the need for specialized technical personnel, reducing implementation times.
+* **Personalized Support:** Local support with direct attention to carriers and distributors, strengthening customer proximity and loyalty.
+
+
+**Versus Frotcom:**
+
+
+* **Functional Specialization Strategy:** Exclusive focus on fragile goods, offering greater depth in traceability and breakage prevention compared to Frotcom's general offering.
+* **Advanced Integration Tactic:** Combination of GPS tracking, impact sensors, and predictive analytics in a single digital environment.
+* **Operational Simplicity:** Intuitive interface designed for transportation personnel, avoiding complex processes and improving operational efficiency.
+* **Sector-specific Added Value:** Implementation of specific functionalities for the transportation of glass and premium beverages, improving service quality and reducing losses.
+
+
+**Versus Schockwatch**
+
+
+* **Intelligent Traceability Strategy:** Evolving beyond passive impact monitoring through a system that records, analyzes, and optimizes every stage of transportation.
+* **Total connectivity tactic:** Integration of impact sensors with the GlassGo platform, generating real-time alerts and alternative routes in the event of incidents.
+* **Logistics optimization:** Application of safe route algorithms to minimize sudden movements and prevent breakages during transit.
+* **Comprehensive proposal:** Unify physical monitoring, digital traceability, and logistics performance management into a single solution, surpassing Schockwatch's fragmented offering.
+
+
+
+##  2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+**Segment 1: Trucking Companies**
+
+* **Discovery Questions:**
+
+* What is your full name and age?
+* What is your position in the company and your current length of service?
+* Could you briefly tell me about your trucking business? (Location, primary merchandise transported, current company fleet)
+* Who are your main customers (distributors, bars, liquor stores, supermarkets)?
+* What times of year does demand for transportation increase?
+* What electronic devices do you use to coordinate routes and deliveries? (Smartphone, tablet, computer)
+* What brands or platforms do you currently use for fleet tracking?
+
+
+* **Main Questions:**
+* How do you evaluate logistics wear and tear (fuel consumption, maintenance, man-hours) with the current system?
+* Do you have any direct connections with suppliers? (Communication)
+* How do you currently plan delivery routes to optimize time and costs?
+* How frequent are loss or damage issues during transportation?
+* What additional costs do these losses or delays generate for the company?
+* Do you use any real-time tracking tools? If so, what advantages and limitations have you encountered?
+* What type of information would you like to receive in real time about each trip (vehicle status, cargo status, exact position)?
+* If there were a solution to improve logistics efficiency, what features would be essential for adopting it?
+
+
+**Segment 2: Liquor Suppliers**
+* **Discovery Questions:**
+* What is your full name and age?
+* What is your title or role within the business?
+* Could you briefly tell me about the liquor distribution business? (type, location, size, years in operation, periods of peak demand)
+* What type of customers do you serve most frequently? (bars, liquor stores, restaurants, supermarkets)
+* How many liquor deliveries do you make on average per month?
+* What electronic devices do you use to manage orders, routes, and deliveries? (smartphone, tablet, laptop, PC)
+* What brands, apps, or platforms do you currently use for logistics tracking?
+
+
+* **Main Questions:**
+* Who usually coordinates directly with carriers: the logistics department, the warehouse, the owner?
+* Do you have any direct connection with the business owners? (communication)
+* When there are setbacks or delays, do they find out? Do they have a way to obtain the necessary information about their cargo?
+* What logistics indicators or reports would you like to see to improve control? (times, impacts, cargo status)
+* What additional costs do losses or delays in deliveries generate?
+* What consequences do delays have on your customer satisfaction or your logistics operations?
+* Have you ever used a technology management platform to ensure the traceability of your orders?
+* What would make you change or include a new service/technology in your logistics chain?
+* If there were a tool to reduce losses and guarantee accurate timing, what features would you consider essential?
+
+**Segment 3: Business Owners**
+
+* **Discovery Questions:**
+* What is your full name and age?
+* What is your position or role within the business?
+* Could you briefly tell me about your business (type, location, size, years in operation, periods of peak demand)
+* What devices do you use most to manage orders and inventory (PC, tablet, smartphone)?
+* What digital channels do you prefer to communicate with suppliers (phone calls, WhatsApp, email, specialized apps)?
+
+
+* **Top Questions**
+
+* When ordering your product, how easy or difficult is it for you to coordinate with suppliers?
+* What are the key criteria when choosing a supplier?
+* Do you prefer to order in advance or as the need arises?
+* How much do you use digital tools for inventory and sales planning?
+* What information do you consider essential to receive when placing an order (confirmation, estimated time, stock availability, traceability)?
+* What are the most common problems you face with orders (delays, stock shortages, price changes, communication issues)?
+* How would you like to receive updates on the status of your orders (automatic notifications, real-time tracking, direct contact)?
+* Would you be willing to invest in a service that offers complete transparency and delivery reliability? What else should it offer to encourage them to adopt it?
+
 ## 2.2. Interviews
 ### 2.2.1. Interview Design
 - **Segment 1: Truck Transport Companies**
