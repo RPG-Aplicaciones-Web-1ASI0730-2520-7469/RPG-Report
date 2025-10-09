@@ -2,13 +2,14 @@
 
 User Stories describe system requirements from the end-user perspective, prioritizing the functionality and value that each action provides. In the GlassGo project, stories were formulated based on the needs identified during the user analysis and empathy stages, with the goal of ensuring a consistent, efficient, and human-centered experience for the people interacting with the platform.
 Each story clearly defines who the user is, what they want to achieve, and their goal. It also includes verifiable acceptance criteria that ensure compliance with the expected behavior.
+
 | Epic / Story ID | Title | Description | Acceptance Criteria | Related to (Epic ID) |
-| :---: | ----- | ----- | :---: |
+| :---: | ----- | ----- | :---: | :---: |
 | E-1 | Order and Customer Management | As a system, I want to centralize authentication so that different roles can access it securely. | N/A | N/A |
-| **US-1** | Digital Order Entry | **As** a distributor, **you** want to record customer orders in a digital system **to** have centralized control and reduce manual errors. | **Given** the distributor accesses the system, **when** a new order is entered, **then** the order is correctly stored with the date, customer, and total amount. | E1 |
-| **US-02** | Modification of Existing Orders | **As** a distributor, **I want** to edit the information of an active order **so that** I can correct errors or update data before dispatch. | **Given** an order with “Pending” status, **When** the distributor updates the order information, **Then** the system records the changes and maintains an edit history. | E1 |
-| **US-03** | Deletion of Canceled Orders | **As** a distributor, **I want** to delete canceled orders **so that** the database remains organized. | **Given** an order with “Canceled” status, **When** the distributor selects the delete option, **Then** the system removes the record and updates the list of active orders. | E1 |
-| **US-04** | Customer Data Management | **As** a distributor, **I want** to register customer information **so that** I can maintain contact and track orders. | **Given** that the distributor accesses the customer module, **When** customer data is entered, **Then** the system saves the information in the database. | E1 |
+| US-1 | Digital Order Entry | As a distributor, you want to record customer orders in a digital system to have centralized control and reduce manual errors. | Given the distributor accesses the system, when a new order is entered, then the order is correctly stored with the date, customer, and total amount. | E-1 |
+| US-2 | Modification of Existing Orders | As a distributor, I want to edit the information of an active order so that I can correct errors or update data before dispatch. | Given an order with “Pending” status, when the distributor updates the order information, then the system records the changes and maintains an edit history. | E-1 |
+| US-3 | Deletion of Canceled Orders | As a distributor, I want to delete canceled orders so that the database remains organized. | Given an order with “Canceled” status, when the distributor selects the delete option, then the system removes the record and updates the list of active orders. | E-1 |
+| US-4 | Customer Data Management | As a distributor, I want to register customer information so that I can maintain contact and track orders. | Given that the distributor accesses the customer module, when customer data is entered, then the system saves the information in the database. | E-1 |
 
 | Epic / Story ID | Title | Description | Acceptance Criteria | Related to (Epic ID) |
 | :---: | ----- | ----- | ----- | ----- |
